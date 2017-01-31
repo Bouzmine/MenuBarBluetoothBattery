@@ -1,0 +1,18 @@
+{
+  "name": "MenuBarBluetoothBattery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GNU GPL",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^1.1.1"
+  }
+}
